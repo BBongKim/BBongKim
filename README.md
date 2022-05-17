@@ -31,6 +31,7 @@
 </div>
   
 <h3 align="center">📚 Focusing Now 📚</h3>
+</br>
 <div align="center">
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/>
@@ -45,6 +46,7 @@
 </div>
 
 <h3 align="center"> ✍️ Blog</h3>
+</br>
 <div align="center" style="text-align:center">
   
  [![Tistory Newest Post](https://tistory-readme-stats.vercel.app/api?name=kbg0099)](https://kbg0099.tistory.com/)
