@@ -22,19 +22,27 @@
   <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=Google Cloud&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/>
 </div>
-
-</br>
 </br>
 
+<div align="center">
+
+![separate](https://user-images.githubusercontent.com/72081383/168786188-1a7a5ba3-4b0f-40c6-bb67-541b736f7aa8.png)
+  
+</div>
+  
 <h3 align="center">📚 Focusing Now 📚</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
 </div>
+</br>
 
-</br>
-</br>
+<div align="center">
+
+![separate](https://user-images.githubusercontent.com/72081383/168786188-1a7a5ba3-4b0f-40c6-bb67-541b736f7aa8.png)
+  
+</div>
 
 <h3 align="center"> ✍️ Blog</h3>
 <div align="center" style="text-align:center">
