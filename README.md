@@ -39,6 +39,6 @@
 <h3 align="center"> ✍️ Blog</h3>
 <div align="center" style="text-align:center">
   
- [![Tistory Newest Post](https://tistory-readme-stats.vercel.app/api?name=kbg0099)](https://github.com/MoonJuhan/tistory-readme-stats)
+ [![Tistory Newest Post](https://tistory-readme-stats.vercel.app/api?name=kbg0099)](https://kbg0099.tistory.com/)
   
 </div>
